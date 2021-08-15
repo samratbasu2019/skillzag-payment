@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="PaytmChecksum">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/Paytm_JAVA_Checksum-master/PaytmChecksum.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
